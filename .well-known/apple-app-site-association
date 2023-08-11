@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D4LBN9YQ56.com.resideo.inhouse",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "NF9GTNATSY.com.resideo.firstalert",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
